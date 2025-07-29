@@ -21,6 +21,16 @@
 
 ---
 
+## **Banana Pi SBC YouTube Playlist**
+Explore detailed tutorials for different Banana Pi models:
+
+- 📺 **[Banana Pi BPI-P2 Pro YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJf7wXYRMxTi6N13cYAuab-)**  
+- 📺 **[Banana Pi BPI-M4 Berry YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJXDh-iKOQY-EMEp0uqdyD2)**  
+- 📺 **[Banana Pi BPI-M4 Zero YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJ4cOlBL80YnnAXfSN2oSzT)**  
+- 📺 **[Banana Pi Forge1](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI9y954_VXcspIvGXz4ONaa)**  
+- 📺 **[Banana Pi CM5 Pro](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIJwhcOY5QQZcM9CcAJ7ojp)**  
+---
+
 # **Banana Pi Setup Guide**
 
 ## **Default Login Credentials**
@@ -205,15 +215,6 @@ Got it! Here’s how you can incorporate the LED blink code into the steps for W
    ```bash
    python led_blink_rpi_gpio.py
    ```   
----
-
-## **Banana Pi YouTube Playlist Links**
-Explore detailed tutorials for different Banana Pi models:
-
-- 📺 **[Banana Pi BPI-P2 Pro YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJf7wXYRMxTi6N13cYAuab-)**  
-- 📺 **[Banana Pi BPI-M4 Berry YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJXDh-iKOQY-EMEp0uqdyD2)**  
-- 📺 **[Banana Pi BPI-M4 Zero YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJ4cOlBL80YnnAXfSN2oSzT)**  
-
 ---
 
 ## M4 Berry 
