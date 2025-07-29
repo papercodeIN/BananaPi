@@ -121,6 +121,4 @@ sudo dd if=/dev/zero of=/dev/mmcblk0 bs=4M status=progress
    ./Node_RED_Installation.sh
    ```
 
-Got it! Here’s how you can incorporate the LED blink code into the steps for WiringPi installation and control the GPIO pins.
-
 ---
