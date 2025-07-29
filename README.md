@@ -22,7 +22,6 @@
 ---
 
 ## **Banana Pi SBC YouTube Playlist**
-Explore detailed tutorials for different Banana Pi models:
 
 - 📺 **[Banana Pi BPI-P2 Pro YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJf7wXYRMxTi6N13cYAuab-)**  
 - 📺 **[Banana Pi BPI-M4 Berry YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJXDh-iKOQY-EMEp0uqdyD2)**  
