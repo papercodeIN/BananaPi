@@ -28,6 +28,11 @@ $\color{Green}\Huge{\textbf{System Image }}$
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+
+1. 🆓️Unboxing Gift from Banana Pi | Banana Pi BPI-P2 Pro | Banana Pi BPI-CM5 Pro Compute Module | [[Watch]](https://youtube.com/shorts/x5V9vqzcbsA?feature=share)
+2. 🆓️Unboxing the Banana Pi BPI-P2 Pro | Compact Powerhouse for IoT & DIY Projects | [[Watch]](https://youtube.com/shorts/6HfME3Xs5xY?feature=share)
+
 $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 
 1. 🆓️Getting Started with Banana Pi BPI-P2 Pro | Flash Debian 11 OS to eMMC Storage | SSH Access | USB Debug | WIFI Setup | [[Watch]](https://youtu.be/sB9e0s1jPCo)
