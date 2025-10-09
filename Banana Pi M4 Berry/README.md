@@ -27,6 +27,13 @@ $\color{Green}\Huge{\textbf{System Image }}$
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+1. 🆓️Unboxing BPI-M4 Berry Single Board Computer from Banana Pi | SBC | Allwinner H618 | BPI | 1.5GHz | [[Watch]](https://youtube.com/shorts/t3id54RRt7g)
+2. 🆓️Banana Pi M4 Berry | Palm Size SBC | Banana Pi | Pi | Linux SBC | IoT | IIoT | Computer | [[Watch]](https://youtube.com/shorts/L7HVNarIcK0)
+3. 🆓️Unboxing Gift from Banana Pi  BPI-M4 Berry & BPI-M4 ZERO | A New Generation of Mini PC | SBC | BPI | [[Watch]](https://youtube.com/shorts/354StHDRAnQ)
+4. 🆓️DIY Android Tablet using Banana Pi M4-Berry and 10.1 Inch Display from [Viewe](https://viewedisplay.com/product/10-1-inch-1024x600-hdmi-interface-raspberry-pi-capacitive-touch-screen-tft-lcd-display/) | [[Watch]](https://youtube.com/shorts/YLYNkCekseo?feature=share)
+
+
 $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 
 1. 🆓️Getting Started with Banana Pi M4 Berry | Flash Armbian Jammy Ubuntu minimal OS to SD Card | SSH Access | USB Debug | [[Watch]](https://youtu.be/LdHc2qc8K2Q)
