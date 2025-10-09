@@ -1,4 +1,4 @@
-# Banana Pi - Banana Pi BPI-CM5 Pro
+# Banana Pi BPI-CM5 Pro
  
 ---
 <p align="center">
