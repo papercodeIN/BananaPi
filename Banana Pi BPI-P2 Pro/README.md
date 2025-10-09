@@ -29,3 +29,12 @@ $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 5. ⏳️Getting Started with Banana Pi BPI-P2 Pro | Flash Buidroot OS to eMMC Storage | SSH Access + USB Debug + WIFI Setup | [Watch]
 
 ---
+
+```
+insmod /system/lib/modules/bcmdhd.ko
+nmcli --ask dev wifi connect Capgemini_4G
+echo -e "nameserver 8.8.8.8\nnameserver 8.8.4.4" | sudo tee /etc/resolv.conf
+sudo systemctl restart networking
+sudo apt-get update && sudo apt-get upgrade -y
+sudo apt-get install wget fdisk -y
+```
