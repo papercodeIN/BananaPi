@@ -20,6 +20,14 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{System Image }}$
+- [WiKi](https://docs.banana-pi.org/en/BPI-P2_Pro/BananaPi_BPI-P2_Pro)
+- [Buildroot](https://drive.google.com/drive/folders/1vgu6tVB1nxdnZNIkogGVaadIGdtbcRS0?usp=sharing)
+- [Debian](https://drive.google.com/file/d/1IWvlzRcNH1Bkjw5Vl-_Kyr0Y86kVw_U6/view?usp=sharing)
+- [Debian](https://drive.google.com/file/d/1T0rIoJjYD1EvdHUGhmoHiRQBYAff02pF/view?usp=sharing)
+
+---
+
 $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 
 1. 🆓️Getting Started with Banana Pi BPI-P2 Pro | Flash Debian 11 OS to eMMC Storage | SSH Access | USB Debug | WIFI Setup | [[Watch]](https://youtu.be/sB9e0s1jPCo)
