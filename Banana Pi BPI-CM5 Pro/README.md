@@ -19,6 +19,11 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{System Image }}$
+- [Debian](https://drive.google.com/drive/folders/1hZvr5egTRzWP6sx3IeqD243wXv5gGkW8)
+
+---
+
 $\color{Green}\Huge{\textbf{Shorts}}$
 
 1. 🆓️Unboxing the Banana Pi BPI-CM5 Pro | Compute Module | Ultimate AIoT Powerhouse | [[Watch]](https://youtube.com/shorts/FAtLggTrNkI)
