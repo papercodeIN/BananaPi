@@ -106,19 +106,20 @@ sudo dd if=/dev/zero of=/dev/mmcblk0 bs=4M status=progress
 ---
 
 ## **Node-RED Installation**
-1. **Download the Installation Script:**  
-   ```bash
-   wget https://raw.githubusercontent.com/papercodeIN/BananaPi/refs/heads/main/Scripts/Node_RED_Installation.sh
-   ```
 
-2. **Make the Script Executable:**  
-   ```bash
-   chmod +x Node_RED_Installation.sh
-   ```
+```bash
+<!-- Download the Installation Script:**   -->
+wget https://raw.githubusercontent.com/papercodeIN/BananaPi/refs/heads/main/Scripts/Node_RED_Installation.sh
+   
 
-3. **Run the Installation Script:**  
-   ```bash
-   ./Node_RED_Installation.sh
-   ```
+<!-- **Make the Script Executable:**   -->
+   
+chmod +x Node_RED_Installation.sh
+   
+
+<!-- Run the Installation Script:**   -->
+
+./Node_RED_Installation.sh
+```
 
 ---
