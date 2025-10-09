@@ -30,8 +30,7 @@ $\color{Green}\Huge{\textbf{System Image }}$
 $\color{Green}\Huge{\textbf{Shorts}}$
 1. 🆓️Unboxing BPI-M4 ZERO Single Board Computer from Banana Pi | SBC | Allwinner H618 | BPI | [[Watch]](https://youtube.com/shorts/xRkj6N7UfQA)
 2. 🆓️Banana Pi M4 Zero | Palm Size SBC | IoT | Better then Raspberry Pi Zero 2 W | Allwinner H618 | [[Watch]](https://youtube.com/shorts/701L5mIXBzE?feature=share)
-3. 🆓️Unboxing the Banana Pi BPI-P2 Pro | Compact Powerhouse for IoT & DIY Projects | [[Watch]](https://youtube.com/shorts/6HfME3Xs5xY?feature=share)
-4. 🆓️DIY Android Tablet using Banana Pi M4-Zero and 10.1 Inch Display from [Viewe](https://viewedisplay.com/product/10-1-inch-1024x600-hdmi-interface-raspberry-pi-capacitive-touch-screen-tft-lcd-display/) | [[Watch]](https://youtube.com/shorts/1BGd6-K-nUU?feature=share)
+3. 🆓️DIY Android Tablet using Banana Pi M4-Zero and 10.1 Inch Display from [Viewe](https://viewedisplay.com/product/10-1-inch-1024x600-hdmi-interface-raspberry-pi-capacitive-touch-screen-tft-lcd-display/) | [[Watch]](https://youtube.com/shorts/1BGd6-K-nUU?feature=share)
 
 $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 
