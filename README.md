@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=papercodeIN.BananaPi" height="20" />
 
-# Banana Pi
- 
+<h1 align = "center">🌟Banana Pi🌟</h1>
+
 ---
 <p align="center">
   <span style="font-size: 1.1em; color: #FFD700; font-weight: bold;">✨ Enjoying this project? Support our work! ✨</span>
