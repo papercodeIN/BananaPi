@@ -23,9 +23,9 @@
 
 ## **Banana Pi SBC YouTube Playlist**
 
-- 📺 **[Banana Pi BPI-P2 Pro YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJf7wXYRMxTi6N13cYAuab-)**  
-- 📺 **[Banana Pi BPI-M4 Berry YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJXDh-iKOQY-EMEp0uqdyD2)**  
-- 📺 **[Banana Pi BPI-M4 Zero YouTube Playlist](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJ4cOlBL80YnnAXfSN2oSzT)**  
+- 📺 **[Banana Pi BPI-P2 Pro](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJf7wXYRMxTi6N13cYAuab-)**  
+- 📺 **[Banana Pi BPI-M4 Berry](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJXDh-iKOQY-EMEp0uqdyD2)**  
+- 📺 **[Banana Pi BPI-M4 Zero](https://www.youtube.com/playlist?list=PLxrSjjYyzaaJ4cOlBL80YnnAXfSN2oSzT)**  
 - 📺 **[Banana Pi Forge1](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI9y954_VXcspIvGXz4ONaa)**  
 - 📺 **[Banana Pi CM5 Pro](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIJwhcOY5QQZcM9CcAJ7ojp)**  
 ---
